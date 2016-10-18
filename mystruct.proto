@@ -1,0 +1,11 @@
+package com.wkkim.template;
+
+//option java_package = "com.wkkim.template";
+//option java_outer_classname = "Test";
+
+message MyStruct
+{
+	required int32 age = 1;
+	required string name = 2;
+	optional string sex  = 3;
+}

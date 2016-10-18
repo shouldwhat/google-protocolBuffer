@@ -1,0 +1,6 @@
+compiler.compileProtoFiles=true
+compiler.enableProjectSettings=true
+compiler.javaOutputDirectory=src/main/java
+compiler.protocFilePath=C\:\\Users\\Administrator\\Desktop\\protoc-3.0.0-win32\\bin\\protoc.exe
+eclipse.preferences.version=1
+general.enableProjectSettings=true
